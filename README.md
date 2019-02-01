@@ -4,7 +4,7 @@
 
 [原版地址](https://github.com/VincentGarreau/particles.js)
 
-#use
+## use
 
 ```js
 import particlesJS from 'particlesJS'
